@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Program01</string>
-
-    <string name="accept">Accept</string>
-    <string name="name">Enter your name</string>
-    <string name="action_settings"></string>
-    <string name="hello"></string>
-
-</resources>
